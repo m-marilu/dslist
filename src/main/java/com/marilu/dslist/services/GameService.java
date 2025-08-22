@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.marilu.dslist.dto.GameDTO;
+import com.marilu.dslist.dto.GameListDTO;
 import com.marilu.dslist.dto.GameMinDTO;
 import com.marilu.dslist.entities.Game;
 import com.marilu.dslist.projections.GameMinProjection;
