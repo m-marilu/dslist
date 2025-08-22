@@ -28,5 +28,5 @@ O DSList é uma aplicação backend que permite listar, reordenar e consultar jo
 - [ ] Implementar um endpoint para adicionar novas listas
 - [ ] Implementar um endpoint para adicionar novos jogos
 - [ ] Implementar um endpoint para deletar listas
-- [ ] Implementar um endpoint para adicionar jogos
+- [ ] Implementar um endpoint para deletar jogos
 - [ ] Adicionar tratamento nos enpoints
