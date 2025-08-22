@@ -1,7 +1,7 @@
 # 🎮 DSList - Catálogo de Jogos
 
 Projeto desenvolvido durante o **Intensivão Java Spring** da [DevSuperior](https://devsuperior.com.br), com foco em construção de APIs REST usando Spring Boot. 
-O DSList é uma aplicação backend que permite listar, organizar e consultar jogos em diferentes listas.
+O DSList é uma aplicação backend que permite listar, reordenar e consultar jogos em diferentes listas.
 
 ## 🚀 Tecnologias utilizadas
 
@@ -25,8 +25,8 @@ O DSList é uma aplicação backend que permite listar, organizar e consultar jo
 
 ## 💭 PLANNING TO DO
 
-[ ] Implementar um endpoint para adicionar novas listas
-[ ] Implementar um endpoint para adicionar novos jogos
-[ ] Implementar um endpoint para deletar listas
-[ ] Implementar um endpoint para adicionar jogos
-[ ] Adicionar tratamento nos enpoints
+- [ ] Implementar um endpoint para adicionar novas listas
+- [ ] Implementar um endpoint para adicionar novos jogos
+- [ ] Implementar um endpoint para deletar listas
+- [ ] Implementar um endpoint para adicionar jogos
+- [ ] Adicionar tratamento nos enpoints
